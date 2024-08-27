@@ -1,2 +1,2 @@
 # wazuh-set
-Setup wazuh using Docker
+Setup wazuh single node using Docker Compose
