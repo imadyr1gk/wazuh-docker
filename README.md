@@ -1,2 +1,4 @@
-# wazuh-set
-Setup wazuh single node using Docker Compose
+# wazuh-dokcer-setup
+Configurer Wazuh Single Node avec Docker 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Wazuh est une plateforme de sécurité open source qui offre des fonctionnalités de détection des intrusions, de surveillance de l'intégrité des fichiers, de gestion des logs, de réponse aux incidents et de conformité. Elle est conçue pour surveiller les menaces de sécurité en temps réel, détecter les comportements anormaux, et fournir des alertes et des rapports détaillés pour aider à protéger les systèmes et les réseaux contre les cybermenaces. Wazuh est souvent utilisé pour la sécurité des systèmes d'exploitation, la sécurité du cloud, et la conformité réglementaire.
